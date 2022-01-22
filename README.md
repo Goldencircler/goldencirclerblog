@@ -1,0 +1,2 @@
+# goldencirclerblog
+myblog
